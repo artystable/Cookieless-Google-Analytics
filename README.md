@@ -6,6 +6,12 @@ This code snippet creates an annonymous user profile ID via `fingerprint.js` and
 
 ---
 
+## Demo
+
+A demo with a basic implementation can be found [right here](https://codepen.io/artystable/full/VwwymXm).
+
+---
+
 ## Description
 
 This is a minimalistic implementation of a "cookieless" Google Analytics tracking snippet. Personally, I am very laid back about privacy and aim to focus on acting in such a way as to reduce the amounts of information I feel I need to hide. That being said, today's border-line thuoghtless use of visitor tracking software has much to say. As a developer, I generally get to circunvent or at least make moderatey concious choices when visiting websites that rudely track my information without the smallest sign of concern about the impact in my experience. I always feel sad, however, thinking about the people who do not even get the chance to make an informed choice.
@@ -21,17 +27,17 @@ While I am sure there are better ways of handling this task, I am very pleased w
 ## Reference Links
 
 **Fingerprint.js:**
-https://github.com/Valve/fingerprintjs
-https://cdnjs.com/libraries/fingerprintjs
+- https://github.com/Valve/fingerprintjs
+- https://cdnjs.com/libraries/fingerprintjs
 
 **Google Analytics:**
-https://analytics.google.com/
-https://developers.google.com/analytics/devguides/collection/analyticsjs
-https://developers.google.com/gtagjs
-https://www.googletagmanager.com/gtag/js
-https://www.google-analytics.com/analytics.js
-https://github.com/googleanalytics/
+- https://analytics.google.com/
+- https://developers.google.com/analytics/devguides/collection/analyticsjs
+- https://developers.google.com/gtagjs
+- https://www.googletagmanager.com/gtag/js
+- https://www.google-analytics.com/analytics.js
+- https://github.com/googleanalytics/
 
 **Other:**
-https://github.com/Foture/cookieless-google-analytics (original inspiration from personal research)
-https://www.webpagetest.org/
+- https://github.com/Foture/cookieless-google-analytics (original inspiration from personal research)
+- https://www.webpagetest.org/
