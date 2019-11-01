@@ -28,13 +28,13 @@ After doing quite some research, I came along a solution that was pleasing to me
 
 - Login to Google Analytics and create a gtag for a the online resource (website, webpage, etc) you would like to track.
 - Add the `fingerprint.js` library in a script tag.
-  `<script src="https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs/0.5.3/fingerprint.min.js"></script>`
+  - `<script src="https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs/0.5.3/fingerprint.min.js"></script>`
 - Add the Google Analytics library in a script tag.
-  `<script src="https://www.googletagmanager.com/gtag/js"></script>`
+  - `<script src="https://www.googletagmanager.com/gtag/js"></script>`
 - Add the gtag to the end of your Google Analytics library script as showsn below:
-  `<script src="https://www.googletagmanager.com/gtag/js?id=UA-123456789-1"></script>`
-- Add the `sample-cookieless-google-analytics.js` script found (right here)[will add in a moment.] in this repository.
-- Replace the value for the myGtag variable in line 10 (let mytGtag = 'UA-123456789-1';) in `sample-cookieless-google-analytics.js` with the gtag you crated in the first step.
+  - `<script src="https://www.googletagmanager.com/gtag/js?id=UA-123456789-1"></script>`
+- Add the `sample-cookieless-google-analytics.js` script found [right here](https://github.com/artystable/Cookieless-Google-Analytics/blob/master/sample-cookieless-google-analytics.js) in this repository.
+- Replace the value for the myGtag variable in line 10 (`let mytGtag = 'UA-123456789-1';`) in `sample-cookieless-google-analytics.js` with the gtag you crated in the first step.
 - You are an awesome human who tries to find a good compromise between being mindful about others' privacy and using data in a productive, positive manner. Pat yourself on the back!
 
 ---
