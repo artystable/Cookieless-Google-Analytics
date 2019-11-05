@@ -2,7 +2,7 @@
 # Greetings!
 
 ## TLDR;
-This code snippet creates an annonymous user profile ID via `fingerprint.js` and then triggers an annonymous Google Analytics log with the data. This allows you to collect user level data while respecting your visitor's privacy. Neither you nor any 3rd party vendor (i.e. Google, etc.) are able to identify the visitor yet the visitor can be uniquely differentiated in the analitics tool (i.e. win-win).
+This code snippet creates an anonymous user profile ID via fingerprint.js and then triggers an anonymous Google Analytics log with the data. This allows you to collect user level data while respecting your visitor's privacy. Neither you nor any 3rd party vendor (i.e. Google, etc.) are able to identify the visitor yet the visitor can be uniquely differentiated in the analitics tool (i.e. win-win).
 
 ---
 
